@@ -1,8 +1,7 @@
-#Intro to OOP – Assignment 2
+# Intro to OOP – Assignment 2
 
-###This project was created for Introduction to Object Oriented Programming – Module 2 at VTDI.
-###It includes the implementation of the Account, SavingsAccount, and ChequingAccount classes with inheritance, interest calculation, and transaction fee logic.
+Course: Introduction to Object-Oriented Programming Institution: Vocational Training Development Institute Department: School of Applied Technology – ICT Lecturer: Mr. Doron Williams Due Date: November 25, 2024
 
-#Student:
+## Student:
 
-##Khrisean Stewart
+### Khrisean Stewart
